@@ -1,0 +1,8 @@
+INP    50 'BF3D.inp'
+ICS    55 'BF3D.ics'
+LST    60 'BF3D.lst'
+RST    66 'BF3D.rst'
+NOD    30 'BF3D.nod'
+ELE    40 'BF3D.ele'
+OBS    70 'BF3D.obs'
+SMY    80 'BF3D.smy'

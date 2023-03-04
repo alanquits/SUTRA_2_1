@@ -1,0 +1,8 @@
+INP    50 'Rocky2D_irregular.inp'
+ICS    55 'Rocky2D_irregular.ics'
+LST    60 'Rocky2D_irregular.lst'
+RST    66 'Rocky2D_irregular.rst'
+NOD    30 'Rocky2D_irregular.nod'
+ELE    40 'Rocky2D_irregular.ele'
+OBS    70 'Rocky2D_irregular.obs'
+SMY    80 'Rocky2D_irregular.smy'

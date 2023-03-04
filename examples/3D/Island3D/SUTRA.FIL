@@ -1,0 +1,8 @@
+INP    50 'Island3D.inp'
+ICS    55 'Island3D.ics'
+LST    60 'Island3D.lst'
+RST    66 'Island3D.rst'
+NOD    30 'Island3D.nod'
+ELE    40 'Island3D.ele'
+OBS    70 'Island3D.obs'
+SMY    80 'Island3D.smy'

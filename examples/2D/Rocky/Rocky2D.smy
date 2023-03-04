@@ -1,0 +1,19 @@
+
+          =====================================================
+
+                          S    U    T    R    A
+
+                               Version 2.1     
+
+          =====================================================
+
+ SUTRA Model created using Argus ONE and Sutra GUI
+ U.S. Geological Survey example parameter values
+ 
+ TIME STEP        0 OF        1;   ELAPSED TIME:  0.0000E+00 OF  3.1558E+10 [s]
+       Starting P-solution using DIRECT solver ...
+ TIME STEP        1 OF        1;   ELAPSED TIME:  3.1558E+10 OF  3.1558E+10 [s]
+       Starting U-solution using DIRECT solver ...
+
+ S I M U L A T I O N   E N D E D
+
